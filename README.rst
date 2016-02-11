@@ -5,16 +5,6 @@ the Python's `replwrap <http://pexpect.readthedocs.org/en/latest/api/replwrap.ht
 requires `GeoScript Groovy <https://github.com/geoscript/geoscript-groovy>`_ to be installed and the geoscript-groovysh command to
 be on the PATH.  To use, just change the kernel in your notebook to GeoScript Groovy.  Then you can use the notebook like any `groovysh <http://groovy-lang.org/groovysh.html>`_
 
-http://jupyter-client.readthedocs.org/en/latest/wrapperkernels.html
-
-http://pexpect.readthedocs.org/en/latest/api/replwrap.html
-
-https://github.com/takluyver/bash_kernel
-
-http://groovy-lang.org/groovysh.html
-
-https://github.com/geoscript/geoscript-groovy
-
 Install
 -------
 First, install jupyter
@@ -23,7 +13,7 @@ First, install jupyter
 
 Then clone the GeoScript Groovy Kernel repository
 
-  git clone https://github.com/geoscript/geoscript_groovy_kernel
+  git clone git@github.com:jericks/geoscript-groovy-kernel.git 
 
 Install the kernel
 
