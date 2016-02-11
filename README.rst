@@ -13,7 +13,7 @@ First, install jupyter
 
 Then clone the GeoScript Groovy Kernel repository
 
-  git clone git@github.com:jericks/geoscript-groovy-kernel.git 
+  git clone https://github.com/jericks/geoscript-groovy-kernel.git 
 
 Install the kernel
 
